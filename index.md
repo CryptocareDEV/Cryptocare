@@ -4,11 +4,10 @@ layout: default
 
 
 
-## [](#header-1) Lookup your friend's crypto receiving addresses.
+## [](#header-1) See which cryptocurrency your friends are interested in!
+## [](#header-1) Share your crypto receiving address to your friends easily and manage your public addresses.
 
-## [](#header-1) Share your crypto receiving address to your friends.
 
-## [](#header-1) Manage your cryptocurrency
 
 
 
