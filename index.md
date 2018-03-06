@@ -4,7 +4,7 @@ layout: default
 
 
 
-## [](#header-2) We are working on a platform that eliminates all the problems pertaining to the mass adoption of cryptocurrency, our platform will be launched soon.
+ ![Search](search.png) Lookup your friend's crypto receiving addresses.
 
 ## [](#header-2) Follow us here and on Telegram for more future updates.
 
@@ -16,4 +16,4 @@ layout: default
 
 ### [](#header-3) [Join us on Telegram](https://t.me/joinchat/FeUDaUUgIpYgt3EcyY5UOQ).
 
-### [](header-3) admin@cryptocare.in
+### [](#header-3) admin@cryptocare.in
