@@ -4,7 +4,11 @@ layout: default
 
 
 
- ## [](#header-2)  Lookup your friend's crypto receiving addresses.
+ ## [](#header-1)  Lookup your friend's crypto receiving addresses.
+
+## [](#header-1) Share your crypto receiving address to your friends.
+
+## [](#header-1) Manage your cryptocurrency
 
 ## [](#header-2) Follow us here and on Telegram for more future updates.
 
