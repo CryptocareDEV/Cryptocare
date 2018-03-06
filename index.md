@@ -4,7 +4,7 @@ layout: default
 
 
 
- ## [](#header-2) ![search](search.png) Lookup your friend's crypto receiving addresses.
+ ## [](#header-2) ![search][search.png] Lookup your friend's crypto receiving addresses.
 
 ## [](#header-2) Follow us here and on Telegram for more future updates.
 
